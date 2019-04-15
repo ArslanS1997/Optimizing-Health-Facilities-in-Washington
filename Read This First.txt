@@ -1,0 +1,6 @@
+Information of each file
+Test Example Solution - the technical document that describes the problem, data extraction and proposed solution.
+thedfA-E : A csv made to ease thing when running the code contains travel time information for all locations
+ZipCodes : A csv which contains Zipcodes of all cities in the US. For how to get this csv go to the Test Example solution
+Coded_Solution: Has all the code written in order to solve the problem. Both a jupyter notebook and simple python
+file has been provided. 
